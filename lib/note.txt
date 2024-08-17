@@ -1,0 +1,14 @@
+# Solid Principles
+- S - Single Responsibility Principle
+- O - Open-Closed Principle
+- L - Liskov Substitution Principle
+- I - Interface Segregation Principle
+- D - Dependency Inversion Principle
+
+Single Responsibility Principle
+- A class Should have only one reason to change(One Responsibility).
+
+Open Closed Principle
+- A software entity(class, function etc) Should be open for extension but closed 
+for modification.
+
