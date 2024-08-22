@@ -12,3 +12,14 @@ Open Closed Principle
 - A software entity(class, function etc) Should be open for extension but closed 
 for modification.
 
+Liskov Substitution Principle
+- Objects of a superclass should be replaceable with objects of it subclasses without 
+affecting the correctness of the program.
+
+Interface Segregation Principle
+- Client should not be forced to depend on methods it does use.
+
+Dependency Inversion Principle
+- High level modules should not depend on low level modules. 
+Both should depend on abstractions.
+- Abstractions should not depend on details. Details should depend on abstractions.
